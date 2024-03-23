@@ -17,4 +17,4 @@
 
 <h2>Nesse modulo estudamos, Random; Operadores; Switch case; SetTimeout & setInterval </h2>
 
-<img ./>
+<img src="" />
