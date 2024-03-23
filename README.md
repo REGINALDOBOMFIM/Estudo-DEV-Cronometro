@@ -17,4 +17,4 @@
 
 <h2>Nesse modulo estudamos, Random; Operadores; Switch case; SetTimeout & setInterval </h2>
 
-<img src="" />
+<img src="https://github.com/REGINALDOBOMFIM/Estudo-DEV-Cronometro/blob/main/gif.finalizada.gif?raw=true" />
